@@ -53,7 +53,7 @@ DELETE /content/{contentid}
 
 ## Tests
 
-Describe and show how to run the tests with code examples.
+Running npm test will run all tests
 
 ## Contributors
 
