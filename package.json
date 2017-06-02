@@ -1,0 +1,25 @@
+{
+  "name": "atelierapi",
+  "version": "1.0.0",
+  "description": "JSON api to expose data about the leeds testing atelier",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/northern-tester/atelierapi.git"
+  },
+  "keywords": [
+    "atelier",
+    "api",
+    "leeds",
+    "testing"
+  ],
+  "author": "Ash Winter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/northern-tester/atelierapi/issues"
+  },
+  "homepage": "https://github.com/northern-tester/atelierapi#readme"
+}
